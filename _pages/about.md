@@ -8,11 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is a little personal wesite collecting some of the stuff I have been playing with. 
+Hi! This is a little personal website collecting some of the stuff I have been playing with. 
+
+Latest projects
+======
+
+- **Longitudinal modeling of the co-development of depression and cardio-metabolic risk** using ALSPAC data and cross-lag panel and network models. [Repository](https://github.com/SereDef/comorb-longit-project)
+
+- **Is [Company name] _bad_? Sentiment analysis of Reddit posts** [Repository]()
+
 
 
 About this website
-======
+------
 
 Note: this lil' website is hosted on [GitHub pages](https://pages.github.com). This Jekyll-based template I used was forked from [this repository](https://github.com/academicpages/academicpages.github.io), which extended the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose.
 
