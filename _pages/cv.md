@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Psychology, University of Bologna, 2018
+* M.S. in Neuroscience, Vrije Universiteit Amsterdam, 2020
+* M.S. in Epidemiology, Erasmus University Rotterdam, 2022
+* Ph.D in Epidemiology, Erasmus medical center, 2024 (expected)
 
 Work experience
 ======
