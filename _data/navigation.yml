@@ -7,14 +7,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Workshops & talks"
     url: /talks/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Just for fun"
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
