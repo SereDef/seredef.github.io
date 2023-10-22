@@ -20,11 +20,9 @@ volunteers. However, when error trials are included in the classifier's training
 decodability in the CRPS group compared with healthy volunteers (280-320 ms). These group differences in neural 
 processing seemed to be driven by the affected rather than the unaffected side. We corroborated these findings with 
 several exploratory analyses of neural representation dynamics and behavioural modelling, highlighting the need for 
-single participant analyses. Although several limitations impacted the robustness and generalizability of these 
-comparisons, the proposed analytical approach yielded promising insights (as well as possible biomarkers based on neural 
-dynamics) into the relatively unexplored alterations of tactile decision-making and attentional control mechanisms in 
-chronic CRPS.
+single participant analyses. Although several limitations impacted the robustness and generalizability of these comparisons, 
+the proposed analytical approach yielded promising insights (as well as possible biomarkers based on neural dynamics) 
+into the relatively unexplored alterations of tactile decision-making and attentional control mechanisms in chronic CRPS.
 
 Defina, at al. (2021). "Attentional modulation of neural dynamics in tactile perception of
-complex regional pain syndrome patients." <i>Eur J Neurosci.</i>. 54(4). 
-[DOI](https://onlinelibrary.wiley.com/doi/10.1111/ejn.15387)
+complex regional pain syndrome patients." <i>Eur J Neurosci.</i>. 54(4). [DOI](https://onlinelibrary.wiley.com/doi/10.1111/ejn.15387)
