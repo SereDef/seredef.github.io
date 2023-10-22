@@ -15,8 +15,8 @@ Latest projects
 
 - **Longitudinal modeling of the co-development of depression and cardio-metabolic risk** \|
   [Web app](https://longit-comorbidity.onrender.com) \| 
-  [Repository](https://github.com/SereDef/comorb-longit-project) \
-  Tags: 
+  [Repository](https://github.com/SereDef/comorb-longit-project)
+  <hr style="height:10px; visibility:hidden;" /> Tags: 
   <mark style="background-color: #fdedec"> Cross-lag panel model </mark>, 
   <mark style="background-color: #fdedec"> Network analysis </mark>, 
   <mark style="background-color: #fdedec"> Graphical vector-autoregressive (GVAR) model </mark>, 
