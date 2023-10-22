@@ -1,13 +1,13 @@
 ---
 title: "Attentional modulation of neural dynamics in tactile perception of complex regional pain syndrome patients"
 collection: publications
-permalink: /publication/2021-08-01-CRPS-paper
+permalink: /publication/2021-07-11-CRPS-paper
 excerpt: 'EEG study mapping brain activity patterns during tactile stimulation in patients affected by Complex regional pain syndrome (CRPS)'
-date: 2021-08-01
-venue: 'Eur J Neurosci.'
+date: 2021-07-11
+venue: 'European Journal of Neuroscience'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1111/ejn.15387'
 citation: 'Defina, at al. (2021). &quot;Attentional modulation of neural dynamics in tactile perception of 
-complex regional pain syndrome patients.&quot; <i>Eur J Neurosci.</i>. 54(4).'
+complex regional pain syndrome patients.&quot; <i>Eur J Neurosci</i>. 54(4).'
 ---
 **Abstract**:
 Body perceptual disturbances are an increasingly acknowledged set of symptoms and possible clinical markers of complex 
@@ -26,4 +26,4 @@ the proposed analytical approach yielded promising insights (as well as possible
 into the relatively unexplored alterations of tactile decision-making and attentional control mechanisms in chronic CRPS.
 
 Defina, at al. (2021). "Attentional modulation of neural dynamics in tactile perception of
-complex regional pain syndrome patients." <i>Eur J Neurosci.</i>. 54(4). [DOI](https://onlinelibrary.wiley.com/doi/10.1111/ejn.15387)
+complex regional pain syndrome patients." <i>Eur J Neurosci</i>. 54(4). [DOI](https://onlinelibrary.wiley.com/doi/10.1111/ejn.15387)
