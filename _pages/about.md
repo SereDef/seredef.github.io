@@ -16,14 +16,21 @@ Latest projects
 - **Longitudinal modeling of the co-development of depression and cardio-metabolic risk** \|
   [Web app](https://longit-comorbidity.onrender.com) \| 
   [Repository](https://github.com/SereDef/comorb-longit-project) \
-  Tags: <mark>Cross-lag panel model</mark>, `Network analysis`, `Graphical vector-autoregression (GVAR) model`, `Dashboard development`
+  Tags: 
+  <mark style="background-color: #fdedec"> Cross-lag panel model </mark>, 
+  <mark style="background-color: #fdedec"> Network analysis </mark>, 
+  <mark style="background-color: #fdedec"> Graphical vector-autoregressive (GVAR) model </mark>, 
+  <mark style="background-color: #fdedec"> Dashboard development </mark>.
 
-- **Is [Company name] _bad_? Sentiment analysis of Reddit posts** | [Repository]()
+- **Is [Company name] _bad_? Sentiment analysis of Reddit posts** \| 
+  [Repository]() \
+  Tags:
+  <mark style="background-color: #fdedec"> Web scraping </mark>, 
+  <mark style="background-color: #fdedec"> Natural language processing </mark>, 
+  <mark style="background-color: #fdedec"> Sentiment analysis </mark>.
 
-  Tags: `Web scraping`, `Natural language processing`, `Sentiment analysis`
-
-- **_GuRu_: a smart-search data dictionary web app for the Generation R study** | [Web app]() | [Repository]()
-
+- **_GuRu_: a smart-search data dictionary web app for the Generation R study** \| 
+  [Web app]() \| [Repository]() \
   Tags: `SQL`, `UX-design`, `knowlege graphs`, `SNOMED`
 
 - **Do arterial thickness, stiffness and blood pressure influence brain morphology in early adolescence** | [Publication]() | [Repository]()
