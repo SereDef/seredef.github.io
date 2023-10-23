@@ -2,9 +2,10 @@
 title: "Attentional modulation of neural dynamics in tactile perception of complex regional pain syndrome patients"
 collection: publications
 permalink: /publication/2021-07-11-CRPS-paper
-excerpt: 'EEG study mapping brain activity patterns during tactile stimulation in patients affected by Complex regional pain syndrome (CRPS)'
+excerpt: 'In this EEG study, we used a novel machine learning approach to map how (i.e., where and when) 
+brain activity patterns are altered in Complex regional pain syndrome (CRPS)'
 date: 2021-07-11
-venue: 'Defina at al. (2021); European Journal of Neuroscience'
+venue: 'Defina at al. (2021); <i>European Journal of Neuroscience</i>'
 paperurl: 'https://doi.org/10.1111/ejn.15387'
 citation: 'Defina, S., Niedernhuber, M., Shenker, N., Brown, C. A., & Bekinschtein, T. A. (2021). 
 &quot;Attentional modulation of neural dynamics in tactile perception of complex regional pain syndrome patients.&quot; 
