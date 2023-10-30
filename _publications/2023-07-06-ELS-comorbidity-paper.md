@@ -3,7 +3,7 @@ title: "Differential effects of pre- and postnatal early-Life stress on internal
 collection: publications
 permalink: /publication/2023-07-06-ELS-comorbidity-paper
 excerpt: ''
-date: 2021-07-11
+date: 2023-07-11
 venue: 'Defina at al. (2023); <i>Journal of the American Academy of Child & Adolescent Psychiatry</i>'
 paperurl: 'https://doi.org/10.1016/j.jaac.2023.05.034'
 citation: '**Defina, S.**, Woofenden, T., Baltramonaityte, V., Pariante, C. M., Lekadir, K., Jaddoe, V. W., Serdarevic, F., 
