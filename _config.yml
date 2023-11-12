@@ -201,8 +201,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      comments: true
       share: true
+      comments: true
   # _pages
   - scope:
       path: ""
