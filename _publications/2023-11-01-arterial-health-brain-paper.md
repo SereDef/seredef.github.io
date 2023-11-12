@@ -7,9 +7,9 @@ excerpt: ''
 date: 2023-11-01
 venue: 'Defina at al. (2023); <i>Hypertension</i>'
 paperurl: ''
-citation: '**Defina, S.**, Silva, C.C.V., Cecil, C.A.M., Tiemeier, H., Felix, J.F., Mutzel, R.L., & Jaddoe, V.W.V. (2023). 
+citation: '<b>Defina, S.</b>, Silva, C.C.V., Cecil, C.A.M., Tiemeier, H., Felix, J.F., Mutzel, R.L., & Jaddoe, V.W.V. (2023). 
 &quot;Associations of arterial thickness, stiffness and blood pressure with brain morphology in early adolescence: 
-A prospective population-based study&quot;<i>Hypertension</i>.'
+A prospective population-based study&quot; <i>Hypertension</i>.'
 
 ---
 **Abstract** \

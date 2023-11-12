@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-12-01
 venue: 'Gonçalves at al. (<i>in press</i>); <i>Journal of the American Heart Association</i>'
 paperurl: ''
-citation: ' **Defina, S.** ...'
+citation: ' <b>Defina, S.</b> ...'
 
 ---
 In press 

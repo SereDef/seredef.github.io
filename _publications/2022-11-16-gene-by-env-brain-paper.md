@@ -7,7 +7,7 @@ We identified three genetic loci and mapped the corresponding genes (involved in
 date: 2022-11-16
 venue: 'Bolhuis, Mulder at al. (2022); <i>Journal of Child Psychology and Psychiatry</i>'
 paperurl: 'https://doi.org/10.1002/jcv2.12113'
-citation: 'Bolhuis, K., Mulder, R. H., de Mol, C. L., **Defina, S.**, Warrier, V., White, T., Tiemeier, H., Muetzel, R. L., 
+citation: 'Bolhuis, K., Mulder, R. H., de Mol, C. L., <b>Defina, S.</b>, Warrier, V., White, T., Tiemeier, H., Muetzel, R. L., 
 & Cecil, C. A. M. (2022). &quot;Mapping gene by early life stress interactions on child subcortical brain structures: A 
 genome-wide prospective study.&quot; <i>JCPP Advances</i>. 2(4), e12113.'
 
@@ -36,6 +36,6 @@ implicated in neurodevelopmental phenotypes, for example, intellectual disabilit
 these associations survived a more stringent correction for multiple testing across all analysis sets. In the validation 
 sample, all PGSgenotype were associated with their respective brain volumes, but no PGSGxE associated with any 
 subcortical volume. None of the PGS associated with internalising or externalising problems. \
-<ins>Conclusions<\ins>:
+<ins>Conclusions</ins>:
 This study lends novel suggestive insights into gene-environment interplay on the developing brain as well as pointing 
 to promising candidate loci for future replication and mechanistic studies.

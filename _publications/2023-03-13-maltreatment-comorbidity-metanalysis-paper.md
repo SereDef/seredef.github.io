@@ -7,7 +7,7 @@ excerpt: ''
 date: 2023-03-13
 venue: 'Souama at al. (2023); <i>BMC Medicine</i>'
 paperurl: 'https://doi.org/10.1186/s12916-023-02769-y'
-citation: 'Souama, C., Lamers, F., Milaneschi, Y., Vinkers, C. H., **Defina, S.**, ... , & Penninx, B. W. J. H. *on behalf 
+citation: 'Souama, C., Lamers, F., Milaneschi, Y., Vinkers, C. H., <b>Defina, S.</b>, ... , & Penninx, B. W. J. H. *on behalf 
 of the EarlyCause Consortium. (2023). &quot;Depression, cardiometabolic disease, and their co-occurrence after childhood 
 maltreatment: an individual participant data meta-analysis including over 200,000 participants.&quot; <i>BMC Medicine</i>. 
 21(93).'

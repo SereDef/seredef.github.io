@@ -7,7 +7,7 @@ brain activity patterns are altered in Complex regional pain syndrome (CRPS)'
 date: 2021-07-11
 venue: 'Defina at al. (2021); <i>European Journal of Neuroscience</i>'
 paperurl: 'https://doi.org/10.1111/ejn.15387'
-citation: '**Defina, S.**, Niedernhuber, M., Shenker, N., Brown, C. A., & Bekinschtein, T. A. (2021). 
+citation: '<b>Defina, S.</b>, Niedernhuber, M., Shenker, N., Brown, C. A., & Bekinschtein, T. A. (2021). 
 &quot;Attentional modulation of neural dynamics in tactile perception of complex regional pain syndrome patients.&quot; 
 <i>Eur J Neurosci</i>. 54(4), 5601–5619.'
 ---

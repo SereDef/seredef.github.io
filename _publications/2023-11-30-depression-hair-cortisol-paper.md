@@ -7,7 +7,7 @@ excerpt: ''
 date: 2023-11-30
 venue: 'Cohen at al. (<i>in press</i>); <i>BMC Pediatrics</i>'
 paperurl: ''
-citation: '**Defina, S.** ...'
+citation: '<b>Defina, S.</b> ...'
 
 ---
 In press 

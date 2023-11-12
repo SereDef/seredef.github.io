@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-07-11
 venue: 'Defina at al. (2023); <i>Journal of the American Academy of Child & Adolescent Psychiatry</i>'
 paperurl: 'https://doi.org/10.1016/j.jaac.2023.05.034'
-citation: '**Defina, S.**, Woofenden, T., Baltramonaityte, V., Pariante, C. M., Lekadir, K., Jaddoe, V. W., Serdarevic, F., 
+citation: '<b>Defina, S.</b>, Woofenden, T., Baltramonaityte, V., Pariante, C. M., Lekadir, K., Jaddoe, V. W., Serdarevic, F., 
 Tiemeier, H., Walton, E., Felix, J. F., & Cecil, C. A. M., *on behalf of the EarlyCause Consortium. (2023). 
 &quot;Effects of Pre-and Postnatal Early-Life Stress on Internalizing, Adiposity, and Their Comorbidity.&quot; 
 <i>JAACAP</i>.'
