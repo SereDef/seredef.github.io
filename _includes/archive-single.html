@@ -47,9 +47,9 @@
           <p>{{post.venue}}</p>
           <!--<p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
 
-        <!--Software main page-->
+        <!--Software main page -->
         {% elsif post.collection == 'software' %}
-          <p>{{post.repourl}}</p>
+          <p>{{post.excerpt}}</p>
 
         <!--Blog post main page
         {% elsif post.date %}
