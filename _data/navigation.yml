@@ -14,7 +14,7 @@ main:
 #    url: /teaching/    
         
   - title: "Software & packages"
-    url: /year-archive/
+    url: /software/
     
   - title: "CV"
     url: /cv/

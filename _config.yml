@@ -191,10 +191,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _software
   - scope:
       path: ""
-      type: posts
+      type: software
     values:
       layout: single
       author_profile: true
