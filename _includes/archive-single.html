@@ -49,7 +49,7 @@
 
         <!--Software main page -->
         {% elsif post.collection == 'software' %}
-          <p>{{post.excerpt}}</p>
+          <p>{{post.excerpt}} | <a href="{{ post.repo_url }}">Repository</a></p>
 
         <!--Blog post main page
         {% elsif post.date %}
