@@ -18,12 +18,8 @@ author_profile: true
   Workshops & Tutorials
 </h1>
 
-<h3>
-  Computing polygenic risk scores (PRS) from scratch
-</h3>
-
-<h3>
-  How to run a genome-wide association study (GWAS): beginner tutorial
-</h3>
+{% for post in site.tutorials reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
