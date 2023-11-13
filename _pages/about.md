@@ -23,11 +23,10 @@ Latest projects
   [Web app](https://longit-comorbidity.onrender.com) \| 
   [Repository](https://github.com/SereDef/comorb-longit-project) \\
   Tags: 
-  <mark style="padding:10px 5px; background-color:#fdedec; color:grey"> Cross-lag panel model</mark>, 
-  <mark style="padding:10px 5px; background-color:#fdedec; color:grey"> G-estimation</mark>, 
-  <mark style="padding:10px 5px; background-color:#fdedec; color:grey"> Network analysis</mark>, 
-  <mark style="padding:10px 5px; background-color:#fdedec; color:grey"> Graphical vector-autoregressive (GVAR) model</mark>, 
-  <mark style="padding:10px 5px; background-color:#fdedec; color:grey"> Dashboard development</mark>.
+  <mark style="padding:5px 5px; background-color:#fdedec; color:grey"> Cross-lag panel model</mark>, 
+  <mark style="padding:5px 5px; background-color:#fdedec; color:grey"> G-estimation</mark>, 
+  <mark style="padding:5px 5px; background-color:#fdedec; color:grey"> Network analysis</mark>,
+  <mark style="padding:5px 5px; background-color:#fdedec; color:grey"> Dashboard development</mark>.
 
 - **Is [Company name] _bad_? Sentiment analysis of Reddit posts** \| 
   [Repository]() \
