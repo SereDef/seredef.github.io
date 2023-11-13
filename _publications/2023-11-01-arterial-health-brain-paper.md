@@ -12,6 +12,14 @@ citation: '<b>Defina, S.</b>, Silva, C.C.V., Cecil, C.A.M., Tiemeier, H., Felix,
 A prospective population-based study&quot; <i>Hypertension</i>.'
 
 ---
+
+Tags:
+  <mark style="background-color: #fdedec">  Causal inference </mark>, 
+  <mark style="background-color: #fdedec">  Random-forrest multiple imputation </mark>, 
+  <mark style="background-color: #fdedec">  Linear mixed-effect model </mark>.
+
+Check out the code [here](https://github.com/SereDef/arterial-health-brain).
+
 **Abstract** \
 <ins>Background</ins>:
 Arterial wall thickness and stiffness and high blood pressure have been repeatedly associated with poorer brain health. 

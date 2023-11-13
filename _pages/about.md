@@ -8,20 +8,23 @@ redirect_from:
 - /about.html
 ---
 
-Hi! This is a little personal website collecting some of the stuff I have been playing with. 
+Hi! This is a little personal website collecting some of the projects I have been working on as part of my PhD (or just
+for the fun of it). 
+If you nose around here, you can find academic publications, little software and web applications, talks, tutorials and 
+loads of interactive notebooks and other (big and small) analyses that I have been playing around with.
+If you have any questions or just want to have a nice chat, please write me on Linkedin or just drop me an email. 
 
 Latest projects
 ======
 
 - **Longitudinal modeling of the co-development of depression and cardio-metabolic risk** \|
   [Web app](https://longit-comorbidity.onrender.com) \| 
-  [Repository](https://github.com/SereDef/comorb-longit-project) \
-  
-  <font size="-1">Tags: 
-  <mark style="background-color: #fdedec"> Cross-lag panel model </mark>, 
-  <mark style="background-color: #fdedec"> Network analysis </mark>, 
-  <mark style="background-color: #fdedec"> Graphical vector-autoregressive (GVAR) model </mark>, 
-  <mark style="background-color: #fdedec"> Dashboard development </mark>.</font>
+  [Repository](https://github.com/SereDef/comorb-longit-project) \\
+  Tags: 
+  <mark style="background-color:#fdedec; color:#626567">  Cross-lag panel model </mark>, 
+  <mark style="background-color:#fdedec; color:#626567">  Network analysis </mark>, 
+  <mark style="background-color:#fdedec; color:grey">  Graphical vector-autoregressive (GVAR) model </mark>, 
+  <mark style="background-color:#fdedec; color:grey">  Dashboard development </mark>.
 
 - **Is [Company name] _bad_? Sentiment analysis of Reddit posts** \| 
   [Repository]() \
@@ -32,11 +35,12 @@ Latest projects
 
 - **_GuRu_: a smart-search data dictionary web app for the Generation R study** \| 
   [Web app]() \| [Repository]() \
+  Tags:
+  <mark style="background-color: #fdedec"> Web scraping </mark>, 
+  <mark style="background-color: #fdedec"> Natural language processing </mark>, 
+  <mark style="background-color: #fdedec"> Sentiment analysis </mark>.
+  
   Tags: `SQL`, `UX-design`, `knowlege graphs`, `SNOMED`
-
-- **Do arterial thickness, stiffness and blood pressure influence brain morphology in early adolescence** | [Publication]() | [Repository]()
-
-  Tags: `Causal inference`, `Random-forrest multiple imputation`, `Linear mixed-effect model` 
 
 - **Differential effects of prenatal and postnatal stress on depression symptoms, adiposity and their comorbidity** | [Publication]() | [Repository 1: ELS score]() | [Repository 1: analyses]()
 
