@@ -9,10 +9,12 @@ redirect_from:
 ---
 
 Hi! This is a little personal website collecting some of the projects I have been working on as part of my PhD (or just
-for the fun of it). 
+for the fun of it). \
 If you nose around here, you can find academic publications, little software and web applications, talks, tutorials and 
 loads of interactive notebooks and other (big and small) analyses that I have been playing around with.
-If you have any questions or just want to have a nice chat, please write me on Linkedin or just drop me an email. 
+
+If you have any questions, notes, suggestions or just want to have a chat, please contact me on LinkedIn or just drop me 
+an email. 
 
 Latest projects
 ======
@@ -21,10 +23,11 @@ Latest projects
   [Web app](https://longit-comorbidity.onrender.com) \| 
   [Repository](https://github.com/SereDef/comorb-longit-project) \\
   Tags: 
-  <mark style="background-color:#fdedec; color:#626567">  Cross-lag panel model </mark>, 
-  <mark style="background-color:#fdedec; color:#626567">  Network analysis </mark>, 
-  <mark style="background-color:#fdedec; color:grey">  Graphical vector-autoregressive (GVAR) model </mark>, 
-  <mark style="background-color:#fdedec; color:grey">  Dashboard development </mark>.
+  <mark style="padding:10px 5px; background-color:#fdedec; color:grey"> Cross-lag panel model</mark>, 
+  <mark style="padding:10px 5px; background-color:#fdedec; color:grey"> G-estimation</mark>, 
+  <mark style="padding:10px 5px; background-color:#fdedec; color:grey"> Network analysis</mark>, 
+  <mark style="padding:10px 5px; background-color:#fdedec; color:grey"> Graphical vector-autoregressive (GVAR) model</mark>, 
+  <mark style="padding:10px 5px; background-color:#fdedec; color:grey"> Dashboard development</mark>.
 
 - **Is [Company name] _bad_? Sentiment analysis of Reddit posts** \| 
   [Repository]() \
