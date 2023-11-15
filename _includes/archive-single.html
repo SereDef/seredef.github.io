@@ -44,7 +44,9 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 
         <!--Publications main page-->
-        {% elsif post.collection == 'publications' %}
+        {% elsif post.collection == 'publications' & post.tags %}
+          <p>{{post.venue}} <br>Tags: {{post.tags}}</p>
+        {% elsif post.collection == 'publications' & post.tags %}
           <p>{{post.venue}}</p>
           <!--<p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
 
