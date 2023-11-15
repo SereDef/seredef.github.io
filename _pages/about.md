@@ -24,25 +24,25 @@ Latest projects
   [Web app](https://longit-comorbidity.onrender.com) \| 
   [Repository](https://github.com/SereDef/comorb-longit-project) \\
   Tags: 
-  <mark style="padding:3px 5px; background-color:#fdedec; color:grey"> Cross-lag panel model</mark>, 
-  <mark style="padding:3px 5px; background-color:#fdedec; color:grey"> G-estimation</mark>, 
-  <mark style="padding:3px 5px; background-color:#fdedec; color:grey"> Network analysis</mark>,
-  <mark style="padding:3px 5px; background-color:#fdedec; color:grey"> Dashboard development</mark>.
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Cross-lag panel model</mark>, 
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> G-estimation</mark>, 
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Network analysis</mark>,
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Dashboard development</mark>.
 
 - **Is [Company name] _bad_? Sentiment analysis of Reddit posts** \| 
   [Repository]() \
   Tags:
-  <mark style="padding:3px 5px; background-color:#fdedec; color:grey"> Web scraping</mark>, 
-  <mark style="padding:3px 5px; background-color:#fdedec; color:grey"> Natural language processing</mark>, 
-  <mark style="padding:3px 5px; background-color:#fdedec; color:grey"> Sentiment analysis</mark>.
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Web scraping</mark>, 
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Natural language processing</mark>, 
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Sentiment analysis</mark>.
 
 - **_GuRu_: a smart-search data dictionary web app for the Generation R study** \| 
   [Web app]() \| [Repository]() \
   Tags:
-  <mark style="padding:3px 5px; background-color:#fdedec; color:grey"> UX-design</mark>, 
-  <mark style="padding:3px 5px; background-color:#fdedec; color:grey"> PostgreSQL</mark>,
-  <mark style="padding:3px 5px; background-color:#fdedec; color:grey"> SNOMED</mark>,
-  <mark style="padding:3px 5px; background-color:#fdedec; color:grey"> Knowledge graph</mark>.
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> UX-design</mark>, 
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> PostgreSQL</mark>,
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> SNOMED</mark>,
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Knowledge graph</mark>.
 
 - **Differential effects of prenatal andcomorbidity** | [Publication]() | [Repository 1: ELS score]() | [Repository 1: analyses]()
 
