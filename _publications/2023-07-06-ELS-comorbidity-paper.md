@@ -6,9 +6,9 @@ excerpt: ''
 date: 2023-07-11
 venue: 'Defina at al. (2023); <i>Journal of the American Academy of Child & Adolescent Psychiatry</i>'
 tags: '
-<mark> Causal inference</mark>, 
-<mark> Multiple imputation</mark>,
-<mark> Mediation analysis</mark>.
+<mark\ style="padding:1px 5px; background-color:#fdedec; color:grey">\ Causal\ inference</mark>, 
+<mark\ style="padding:1px 5px; background-color:#fdedec; color:grey">\  Multiple\ imputation</mark>,
+<mark\ style="padding:1px 5px; background-color:#fdedec; color:grey">\  Mediation\ analysis</mark>.
 '
 paperurl: 'https://doi.org/10.1016/j.jaac.2023.05.034'
 citation: '<b>Defina, S.</b>, Woofenden, T., Baltramonaityte, V., Pariante, C. M., Lekadir, K., Jaddoe, V. W., Serdarevic, F., 
