@@ -45,10 +45,13 @@
 
         <!--Publications main page-->
         {% elsif post.collection == 'publications' & post.tags %}
-          <p>{{post.venue}} <br>Tags:</p>
-          {% for tag in post.tags %}
-          <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}</mark>,
-          {% endfor %}
+          <p>{{post.venue}} <br>Tags:
+              {% for tag in post.tags %}
+                <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}</mark>
+              {% endfor %}
+          </p>
+
+
         {% elsif post.collection == 'publications'%}
           <p>{{post.venue}}</p>
           <!--<p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
