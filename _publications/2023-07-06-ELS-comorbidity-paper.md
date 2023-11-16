@@ -5,7 +5,7 @@ permalink: /publication/2023-07-06-ELS-comorbidity-paper
 excerpt: ''
 date: 2023-07-11
 venue: 'Defina at al. (2023); <i>Journal of the American Academy of Child & Adolescent Psychiatry</i>'
-tags:
+tag_list:
     - Causal inference
     - Multiple imputation
     - Mediation analysis

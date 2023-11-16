@@ -45,10 +45,10 @@
 
         <!--Publications main page-->
         {% elsif post.collection == 'publications'%}
-          {% if post.tags %}
+          {% if post.tag_list %}
             <p>{{post.venue}} <br>Tags:
-              {% for tag in post.tags %}
-                <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}  </mark>
+              {% for tag in post.tag_list %}
+                <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}</mark>
               {% endfor %}
             </p>
           {% else %}
