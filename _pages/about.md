@@ -44,10 +44,6 @@ Latest projects
   <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> SNOMED</mark>,
   <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Knowledge graph</mark>.
 
-- **WORKSHOP: Multiple imputation in R: why and how** | [Slides]()
-
-  Tags: `Multiple imputation`, `Data simualtion`, `Parallel processing` 
-
 - **WORKSHOP: Gentle introduction to Git and GitHub for bio-medical researchers** | [Slides]()
 
   Tags: `Git`, `GitHub`, `version control`

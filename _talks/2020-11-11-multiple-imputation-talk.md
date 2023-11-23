@@ -1,9 +1,15 @@
 ---
 title: "Common misconceptions about multiple imputation"
 collection: talks
-type: "Talk"
 permalink: /talks/2020-11-11-multiple-imputation-talk
 date: 2020-11-11
+tag_list:
+    - Selection bias
+    - Multiple imputation
+    - Data simulation
+    - Parallel processing
+    - Predictive mean matching
+    - Random-forest algorithm
 location: "Rotterdam, NL"
 slides_link: ''
 ---

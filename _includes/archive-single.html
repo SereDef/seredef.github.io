@@ -61,6 +61,16 @@
         {% elsif post.collection == 'software' or post.collection == 'packages' %}
           <p>{{post.excerpt}} | <a href="{{ post.repo_url }}">Repository</a></p>
 
+        <!--Talks and workshops main page -->
+        {% elsif post.collection == 'talks' %}
+          {% if post.tag_list %}
+            <p>Topics:
+              {% for tag in post.tag_list %}
+                <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}</mark>
+              {% endfor %}
+            </p>
+          {% endif %}
+
         {% elsif post.collection == 'tutorial' %}
           <p>{{post.excerpt}} | <a href="{{ post.repo_url }}">Repository</a></p>
           {% if post.tag_list %}
