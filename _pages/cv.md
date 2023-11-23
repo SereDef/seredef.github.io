@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Psychology, University of Bologna, 2018
-* M.S. in Neuroscience, Vrije Universiteit Amsterdam, 2020
-* M.S. in Epidemiology, Erasmus University Rotterdam, 2022
 * Ph.D in Epidemiology, Erasmus medical center, 2024 (expected)
+  
+* M.S. in (genetic and molecular) Epidemiology, Erasmus University Rotterdam, 2022
+* M.S. in (cognitive) Neuroscience, Vrije Universiteit Amsterdam, 2020
+* B.S. in Psychology, University of Bologna, 2018
 
 Work experience
 ======
@@ -54,7 +55,11 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Conference presentations and posters
 ======
-* Currently signed in to 43 different slack teams
+(Copenhagen, 2023), OHBM (Montreal, 2023)
+
+Other certifications
+=====
+

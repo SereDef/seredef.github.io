@@ -1,8 +1,8 @@
 ---
 title: "Common misconceptions about multiple imputation"
 collection: talks
-permalink: /talks/2020-11-11-multiple-imputation-talk
-date: 2020-11-11
+permalink: /talks/2021-02-11-multiple-imputation-talk
+date: 2021-02-11
 tag_list:
     - Selection bias
     - Multiple imputation
