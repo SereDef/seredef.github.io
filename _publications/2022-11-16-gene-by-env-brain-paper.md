@@ -12,6 +12,10 @@ citation: 'Bolhuis, K., Mulder, R. H., de Mol, C. L., <b>Defina, S.</b>, Warrier
 genome-wide prospective study.&quot; <i>JCPP Advances</i>. 2(4), e12113.'
 
 ---
+
+Check out some code [here](https://github.com/SereDef/GEM-plots) (creates 3D manhattan plots in Python).
+
+
 **Abstract** \
 <ins>Background</ins>:
 Although it is well-established that both genetics and the environment influence brain development, they are typically 

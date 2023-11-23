@@ -3,7 +3,6 @@ title: "Depression, cardiometabolic disease, and their co-occurrence after child
 data meta-analysis including over 200,000 participants"
 collection: publications
 permalink: /publication/2023-03-13-maltreatment-comorbidity-metanalysis-paper
-excerpt: ''
 date: 2023-03-13
 venue: 'Souama at al. (2023); <i>BMC Medicine</i>'
 paperurl: 'https://doi.org/10.1186/s12916-023-02769-y'
@@ -13,6 +12,7 @@ maltreatment: an individual participant data meta-analysis including over 200,00
 21(93).'
 
 ---
+
 **Abstract** \
 <ins>Background</ins>:
 Childhood maltreatment is associated with depression and cardiometabolic disease in adulthood. However, the relationships 

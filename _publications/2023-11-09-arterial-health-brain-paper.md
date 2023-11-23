@@ -2,23 +2,23 @@
 title: "Associations of arterial thickness, stiffness and blood pressure with brain morphology in early adolescence: 
 A prospective population-based study"
 collection: publications
-permalink: /publication/2023-11-01-arterial-health-brain-paper
-excerpt: ''
-date: 2023-11-01
+permalink: /publication/2023-11-09-arterial-health-brain-paper
+date: 2023-11-09
 venue: 'Defina at al. (2023); <i>Hypertension</i>'
-paperurl: ''
+tag_list:
+    - Causal inference 
+    - Random-forrest multiple imputation
+    - Linear mixed-effect modeling
+paperurl: 'https://doi.org/10.1161/HYPERTENSIONAHA.123.21672'
 citation: '<b>Defina, S.</b>, Silva, C.C.V., Cecil, C.A.M., Tiemeier, H., Felix, J.F., Mutzel, R.L., & Jaddoe, V.W.V. (2023). 
 &quot;Associations of arterial thickness, stiffness and blood pressure with brain morphology in early adolescence: 
 A prospective population-based study&quot; <i>Hypertension</i>.'
 
 ---
 
-Tags:
-  <mark style="background-color: #fdedec">  Causal inference </mark>, 
-  <mark style="background-color: #fdedec">  Random-forrest multiple imputation </mark>, 
-  <mark style="background-color: #fdedec">  Linear mixed-effect model </mark>.
+Check out this paper's [GitHub repository](https://github.com/SereDef/arterial-health-brain) and 
+[OSF pre-registration](https://osf.io/ryc7e).
 
-Check out the code [here](https://github.com/SereDef/arterial-health-brain).
 
 **Abstract** \
 <ins>Background</ins>:

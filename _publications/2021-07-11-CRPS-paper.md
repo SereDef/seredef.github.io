@@ -6,11 +6,24 @@ excerpt: 'In this EEG study, we used a novel machine learning approach to map ho
 brain activity patterns are altered in Complex regional pain syndrome (CRPS)'
 date: 2021-07-11
 venue: 'Defina at al. (2021); <i>European Journal of Neuroscience</i>'
+tag_list:
+    - EEG
+    - Multivariate pattern analysis ("Brain decoding")
+    - Support vector machine (SVM)
+    - Temporal generalization analysis (TGA)
+    - Topographical mapping
+    - Signal detection theory (SDT)
 paperurl: 'https://doi.org/10.1111/ejn.15387'
 citation: '<b>Defina, S.</b>, Niedernhuber, M., Shenker, N., Brown, C. A., & Bekinschtein, T. A. (2021). 
 &quot;Attentional modulation of neural dynamics in tactile perception of complex regional pain syndrome patients.&quot; 
 <i>Eur J Neurosci</i>. 54(4), 5601–5619.'
 ---
+
+Check out this paper's [GitHub repository](https://github.com/SereDef/CRPS-decoding-behavioral-modeling), 
+[OSF pre-registration](https://osf.io/rmhsb), and
+[medRXiv pre-print](https://www.medrxiv.org/content/10.1101/2020.10.14.20212464v2.full).
+
+
 **Abstract**:
 Body perceptual disturbances are an increasingly acknowledged set of symptoms and possible clinical markers of complex 
 regional pain syndrome (CRPS), but the neurophysiological and neurocognitive changes that underlie them are still far 

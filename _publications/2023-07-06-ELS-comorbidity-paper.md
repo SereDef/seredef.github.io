@@ -6,9 +6,11 @@ excerpt: ''
 date: 2023-07-11
 venue: 'Defina at al. (2023); <i>Journal of the American Academy of Child & Adolescent Psychiatry</i>'
 tag_list:
+    - Multi-cohort data harmonization 
+    - Multiple imputation by chained equations
     - Causal inference
-    - Multiple imputation
     - Mediation analysis
+    - Hierarchical regression analysis 
 paperurl: 'https://doi.org/10.1016/j.jaac.2023.05.034'
 citation: '<b>Defina, S.</b>, Woofenden, T., Baltramonaityte, V., Pariante, C. M., Lekadir, K., Jaddoe, V. W., Serdarevic, F., 
 Tiemeier, H., Walton, E., Felix, J. F., & Cecil, C. A. M., *on behalf of the EarlyCause Consortium. (2023). 
@@ -16,6 +18,11 @@ Tiemeier, H., Walton, E., Felix, J. F., & Cecil, C. A. M., *on behalf of the Ear
 <i>JAACAP</i>.'
 
 ---
+
+Check out the [GitHub repository](https://github.com/SereDef/association-ELS-PCM-project) for this paper.
+More information about the ELS score construction available [here](https://github.com/SereDef/cumulative-ELS-score).
+
+
 **Abstract** \
 <ins>Objective</ins>:
 Depression and obesity are 2 highly prevalent and often comorbid conditions. Exposure to early-life stress (ELS) has 
