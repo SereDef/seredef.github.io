@@ -63,6 +63,13 @@
 
         {% elsif post.collection == 'tutorial' %}
           <p>{{post.excerpt}} | <a href="{{ post.repo_url }}">Repository</a></p>
+          {% if post.tag_list %}
+            <p>Tags:
+              {% for tag in post.tag_list %}
+                <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}</mark>
+              {% endfor %}
+            </p>
+          {% endif %}
 
         <!--Blog post main page
         {% elsif post.date %}

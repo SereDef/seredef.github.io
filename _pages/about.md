@@ -23,38 +23,26 @@ Latest projects
 - **Longitudinal modeling of the co-development of depression and cardio-metabolic risk** \|
   [Web app](https://longit-comorbidity.onrender.com) \| 
   [Repository](https://github.com/SereDef/comorb-longit-project) \\
-  Tags: 
-  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Cross-lag panel model</mark>, 
-  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> G-estimation</mark>, 
-  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Network analysis</mark>,
-  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Dashboard development</mark>.
+  <mark style="padding:1px 5px; background-color:white; color:grey"> Tags: </mark> 
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Cross-lag panel model</mark> 
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> G-estimation</mark> 
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Network analysis</mark> 
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Dashboard development</mark> 
 
 - **Is [Company name] _bad_? Sentiment analysis of Reddit posts** \| 
   [Repository]() \
-  Tags:
-  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Web scraping</mark>, 
-  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Natural language processing</mark>, 
-  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Sentiment analysis</mark>.
+  <mark style="padding:1px 5px; background-color:white; color:grey"> Tags: </mark> 
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Web scraping</mark> 
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Natural language processing</mark> 
+  <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Sentiment analysis</mark> 
 
 - **_GuRu_: a smart-search data dictionary web app for the Generation R study** \| 
   [Web app]() \| [Repository]() \
-  Tags:
+  <mark style="padding:1px 5px; background-color:white; color:grey"> Tags: </mark> 
   <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> UX-design</mark>, 
   <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> PostgreSQL</mark>,
   <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> SNOMED</mark>,
   <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Knowledge graph</mark>.
-
-- **Differential effects of prenatal andcomorbidity** | [Publication]() | [Repository 1: ELS score]() | [Repository 1: analyses]()
-
-  Tags: `Causal inference`, `Multiple imputation`, `Mediation analysis` 
-
-- **TUTORIAL: running a genome-wide association study (GWAS) from scratch**  | [Repository]()
-
-  Tags: `Genetic analysis`, `Bash scripting`
-  
-- **TUTORIAL: Polygenic risk score (PRS) analysis from scratch**  | [Repository]()
-
-  Tags: `Genetic analysis`, `Bash scripting`
 
 - **WORKSHOP: Multiple imputation in R: why and how** | [Slides]()
 
