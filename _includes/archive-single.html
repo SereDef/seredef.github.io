@@ -40,52 +40,63 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %} -->
 
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    <!--Portfolio main page-->
+    {% elsif post.collection == 'portfolio' %}
+      {% if post.tag_list %}
+        <p>{{post.excerpt}} <br>Tags:
+          {% for tag in post.tag_list %}
+            <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}</mark>
+          {% endfor %}
+        </p>
+      {% else %}
+        <p>{{post.excerpt}}</p>
+      {% endif %}
 
-        <!--Publications main page-->
-        {% elsif post.collection == 'publications'%}
-          {% if post.tag_list %}
-            <p>{{post.venue}} <br>Tags:
-              {% for tag in post.tag_list %}
-                <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}</mark>
-              {% endfor %}
-            </p>
-          {% else %}
-            <p>{{post.venue}}</p>
-          {% endif %}
+    <!--Publications main page-->
+    {% elsif post.collection == 'publications' %}
+      {% if post.tag_list %}
+        <p>{{post.venue}} <br>Tags:
+          {% for tag in post.tag_list %}
+            <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}</mark>
+          {% endfor %}
+        </p>
+      {% else %}
+        <p>{{post.venue}}</p>
+      {% endif %}
 
-          <!--<p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
+    <!--Talks and workshops main page -->
+    {% elsif post.collection == 'talks' %}
+      {% if post.tag_list %}
+        <p>Topics:
+          {% for tag in post.tag_list %}
+            <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}</mark>
+          {% endfor %}
+        </p>
+      {% endif %}
 
-        <!--Software main page -->
-        {% elsif post.collection == 'software' or post.collection == 'packages' %}
-          <p>{{post.excerpt}} | <a href="{{ post.repo_url }}">Repository</a></p>
+    {% elsif post.collection == 'tutorial' %}
+      <p>{{post.excerpt}} | <a href="{{ post.repo_url }}">Repository</a></p>
+      {% if post.tag_list %}
+        <p>Tags:
+          {% for tag in post.tag_list %}
+            <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}</mark>
+          {% endfor %}
+        </p>
+      {% endif %}
 
-        <!--Talks and workshops main page -->
-        {% elsif post.collection == 'talks' %}
-          {% if post.tag_list %}
-            <p>Topics:
-              {% for tag in post.tag_list %}
-                <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}</mark>
-              {% endfor %}
-            </p>
-          {% endif %}
+    <!--Software main page -->
+    {% elsif post.collection == 'software' or post.collection == 'packages' %}
+      <p>{{post.excerpt}} | <a href="{{ post.repo_url }}">Repository</a></p>
 
-        {% elsif post.collection == 'tutorial' %}
-          <p>{{post.excerpt}} | <a href="{{ post.repo_url }}">Repository</a></p>
-          {% if post.tag_list %}
-            <p>Tags:
-              {% for tag in post.tag_list %}
-                <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}</mark>
-              {% endfor %}
-            </p>
-          {% endif %}
+    <!--{% if post.collection == 'teaching' %}
+      <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 
-        <!--Blog post main page
+        Blog post main page
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        -->
-        {% endif %}
+       -->
+
+    {% endif %}
 
     <!--Don't duplicate excerpt
     {% if post.excerpt and site.read_more != 'enabled' %}
