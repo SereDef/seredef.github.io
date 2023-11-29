@@ -11,24 +11,26 @@ redirect_from:
 Hi! This is a little personal website that collects some of the projects I have been working on as part of my PhD (or just
 for the fun of it).
 
-If you nose around here, you can find [academic publications](/publications/), some software and web applications, talks, tutorials and 
-loads of interactive notebooks and other (big and small) analyses that I have been playing around with.
+If you nose around here, you can find [academic publications](/publications/), some [software](/software/) and [web applications](/software/), 
+[talks](/talks/), [tutorials](/talks/) and loads of [interactive notebooks](/portfolio/) and other (big and small) analyses that I have been 
+playing around with.
 
-If you have any questions, notes, suggestions or just want to have a chat, please contact me on LinkedIn or just drop me 
+If you have any questions, notes, suggestions or just want to have a chat, please contact me on 
+[LinkedIn](https://www.linkedin.com/in/serena-defina-684378183/), check out my [GitHub](https://github.com/SereDef), or just drop me 
 an email. 
 
-A little about me
-======
-Bit of an artsy kid grown up in the middle-of-nowhere Italian South, I would get very excited about visual arts, literature 
-and philosophy (which made for an admittedly unbearable teenager). I ended up studying Psychology in my Bachelor, and those 
-undergrad years were breading ground for two new passions: statistics and the brain. So I got my hands on a scholarship and 
-headed all the way to Amsterdam where I could specialize in Neuroscience. That is where I met ML for the first tile and (like 
-anybody else in 2015) got really excited about it. So my first little projects with data were about applying these new ML 
-techniques to brain data (MRI and EEG timeseries) which was very fun. I then moved on to Rotterdam where I was following a
-new curiosity: genetic (and what I later learned to call omics data). I got the change to specialize further in epidemiology 
-and learned a great deal about causal inference and new techniques. 
+If you have time for background-stories 
+------
+Bit of an artsy kid, grown up in the middle-of-nowhere Italian South, excited about philosophy, literature and painting. 
+I ended up studying Psychology in my Bachelor, and those undergrad years were the breading ground for two new passions: 
+one was statistics and the other was the brain. \
+So I got my hands on a scholarship and headed all the way to Amsterdam where I specialized in Neuroscience. There I met 
+machine learning for the first time and (like anybody else in 2015) I was just hooked. So, my first little projects with data 
+were about applying these new ML techniques to brain time-series (MRI and EEG). \
+I then moved on to Rotterdam where start a new adventure. I got the chance to specialize further in Epidemiology and learned 
+a great deal about causal inference and new exciting techniques and data. 
 In my PhD, I try to combine the world of causal inference with that of prediction to understand how some people develop mental 
-disorders that are comorbid with cardio-metabolic problems and others don't. 
+disorders that are comorbid with cardio-metabolic problems and others don't. \
 
 Latest projects
 ======
@@ -63,6 +65,7 @@ Latest projects
   <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Music trend analysis</mark> 
   <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Interactive dashboard</mark> 
   <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Spotify API</mark>
+
 
 About this website
 ------
