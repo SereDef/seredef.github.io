@@ -19,18 +19,18 @@ If you have any questions, notes, suggestions or just want to have a chat, pleas
 [LinkedIn](https://www.linkedin.com/in/serena-defina-684378183/), check out my [GitHub](https://github.com/SereDef), or just drop me 
 an email. 
 
-If you have time for background-stories 
-------
-Bit of an artsy kid, grown up in the middle-of-nowhere Italian South, excited about philosophy, literature and painting. 
+### If you have time for background stories...
+Bit of an artsy kid, grown up in the middle-of-nowhere Italian South, excited about philosophy, literature and painting 
+(which made for an _unbearable_ teen). 
 I ended up studying Psychology in my Bachelor, and those undergrad years were the breading ground for two new passions: 
 one was statistics and the other was the brain. \
 So I got my hands on a scholarship and headed all the way to Amsterdam where I specialized in Neuroscience. There I met 
-machine learning for the first time and (like anybody else in 2015) I was just hooked. So, my first little projects with data 
-were about applying these new ML techniques to brain time-series (MRI and EEG). \
-I then moved on to Rotterdam where start a new adventure. I got the chance to specialize further in Epidemiology and learned 
-a great deal about causal inference and new exciting techniques and data. 
+machine learning for the first time and - like anybody else in early 2010s - I was just hooked. So, my first little data projects
+were all about applying these new ML techniques to brain time-series data, first in Amsterdam (MRI) and then in Cambridge (EEG). \
+I then moved on to Rotterdam where I started whole new PhD adventure. I got the chance to specialize further in Epidemiology and learned 
+a great deal about causal inference and exciting new techniques, questions and datasets, such as clinical and genetic data. 
 In my PhD, I try to combine the world of causal inference with that of prediction to understand how some people develop mental 
-disorders that are comorbid with cardio-metabolic problems and others don't. \
+disorders that are comorbid with cardio-metabolic problems and others don't.
 
 Latest projects
 ======
