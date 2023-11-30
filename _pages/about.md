@@ -28,7 +28,7 @@ So I got my hands on a scholarship and headed all the way to Amsterdam where I s
 machine learning for the first time and - like anybody else in early 2010s - I was just hooked. So, my first little data projects
 were all about applying these new ML techniques to brain time-series data, first in Amsterdam (MRI) and then in Cambridge (EEG). \
 I then moved on to Rotterdam where I started whole new PhD adventure. I got the chance to specialize further in Epidemiology and learned 
-a great deal about causal inference and exciting new techniques, questions and datasets, such as clinical and genetic data. 
+a great deal about causal inference and exciting new techniques, questions and datasets, such as clinical and genetic data. \
 In my PhD, I try to combine the world of causal inference with that of prediction to understand how some people develop mental 
 disorders that are comorbid with cardio-metabolic problems and others don't.
 
