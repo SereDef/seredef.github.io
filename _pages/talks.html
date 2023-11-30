@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks & presentations"
+title: "Workshops & Tutorials"
 permalink: /talks/
 author_profile: true
 ---
@@ -9,17 +9,16 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<br>
-<h1>
-  Workshops & Tutorials
-</h1>
-
 {% for post in site.tutorials reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
+<br>
+<br>
+<h1>
+  Talks & presentations Workshops & Tutorials
+</h1>
 
+{% for post in site.talks reversed %}
+  {% include archive-single.html %}
+{% endfor %}
