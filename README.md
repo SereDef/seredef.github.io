@@ -1,7 +1,9 @@
-A Github Pages template for my personal websites. You can visit the website [here](https://seredef.github.io/)
+A Github Pages template for my personal website.
+
+You can visit the website [here](https://seredef.github.io/).
 
 
-> Note: This tamplate was forked by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+> Note: This template was forked by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 

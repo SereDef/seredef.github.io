@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You this CV as pfd [here](/files/Defina_CV_latex.pdf). 
+You can download the CV as pfd [here](/files/Defina_CV_latex.pdf). 
 {: .notice}
 
 Education
