@@ -62,13 +62,15 @@
 
     <!--Talks and workshops main page -->
     {% elsif post.collection == 'tutorial' %}
-      <p>{{post.excerpt}} | <a href="{{ post.repo_url }}">Repository</a></p>
+      <!-- <p>{{post.excerpt}} | <a href="{{ post.repo_url }}">Repository</a></p> -->
       {% if post.tag_list %}
-        <p>Tags:
+        <p><a href="{{ post.repo_url }}">Repository</a> | Tags:
           {% for tag in post.tag_list %}
             <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}</mark>
           {% endfor %}
         </p>
+      {% else %}
+        <p><a href="{{ post.repo_url }}">Repository</a></p>
       {% endif %}
 
     {% elsif post.collection == 'talks' %}
