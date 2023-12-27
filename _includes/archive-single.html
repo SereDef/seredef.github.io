@@ -60,7 +60,7 @@
         <p>{{post.venue}}</p>
       {% endif %}
 
-    <!--Talks and workshops main page -->
+    <!--Talks and workshops main page
     {% elsif post.collection == 'tutorial' %}
       {% if post.tag_list %}
         <p><a href="{{ post.repo_url }}">Repository</a> | Tags:
@@ -79,7 +79,7 @@
             <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}</mark>
           {% endfor %}
         </p>
-      {% endif %}
+      {% endif %} -->
 
     <!--Software main page -->
     {% elsif post.collection == 'software' or post.collection == 'packages' %}
