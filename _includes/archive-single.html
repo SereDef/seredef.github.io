@@ -28,6 +28,7 @@
 
     <!-- Title -->
     <h2 class="archive__item-title" itemprop="headline">
+
       {% if post.link %}
         <a style="font-size:18px; font-weight:400;" href="{{ post.link }}">{{ title }}</a>
       {% else %}
@@ -60,19 +61,19 @@
       {% endif %}
 
     <!--Talks and workshops main page -->
-    {% elsif post.collection == 'talks' %}
+    {% elsif post.collection == 'tutorial' %}
+      <p>{{post.excerpt}} | <a href="{{ post.repo_url }}">Repository</a></p>
       {% if post.tag_list %}
-        <p>Topics:
+        <p>Tags:
           {% for tag in post.tag_list %}
             <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}</mark>
           {% endfor %}
         </p>
       {% endif %}
 
-    {% elsif post.collection == 'tutorial' %}
-      <p>{{post.excerpt}} | <a href="{{ post.repo_url }}">Repository</a></p>
+    {% elsif post.collection == 'talks' %}
       {% if post.tag_list %}
-        <p>Tags:
+        <p>Topics:
           {% for tag in post.tag_list %}
             <mark style="padding:1px 5px; background-color:#fdedec; color:grey">{{tag}}</mark>
           {% endfor %}
