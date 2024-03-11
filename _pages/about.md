@@ -45,7 +45,7 @@ Latest projects
   <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Dashboard development</mark> 
 
 - **Is [Company name] _bad_? Sentiment analysis of Reddit posts** \| 
-  [Repository]() \
+  [Notebook](/files/Reddit_NovoNordisk_sia.html) \
   <mark style="padding:1px 0px; background-color:white; color:grey"> Tags: </mark> 
   <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Web scraping</mark> 
   <mark style="padding:1px 5px; background-color:#fdedec; color:grey"> Natural language processing</mark> 
