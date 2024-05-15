@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2024-05-01-ELS-by-lifestyle-paper
 excerpt: ''
 date: 2024-05-01
-venue: 'Defina at al. (2024); <i>Preventive Medicine</i>'
+venue: 'Defina, Woofenden at al. (2024); <i>Preventive Medicine</i>'
 tag_list:
     - Multi-cohort data harmonization
     - Moderation analysis
@@ -20,7 +20,7 @@ Moderation analysis in two European birth cohorts&quot; <i>Preventive Medicine</
 
 Check out this paper's [GitHub repository](https://github.com/SereDef/lifestyle-moderators-project)
 
-**Abstract** \
+**Abstract**
 
 <ins>Objective</ins>:
 Early-life stress (ELS) is an established risk factor for a host of adult mental and physical health problems, including 
