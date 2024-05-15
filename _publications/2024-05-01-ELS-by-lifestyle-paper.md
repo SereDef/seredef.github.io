@@ -7,8 +7,9 @@ excerpt: ''
 date: 2024-05-01
 venue: 'Defina at al. (2024); <i>Preventive Medicine</i>'
 tag_list:
-    - Causal inference
+    - Multi-cohort data harmonization
     - Moderation analysis
+    - Causal inference
     - Random-forrest multiple imputation
 paperurl: 'https://doi.org/10.1016/j.ypmed.2024.107926'
 citation: '<b>Defina, S.</b>, Woofenden, T., Baltramonaityte, V., Tiemeier, H., Fairchild, G., Felix, J. F., Cecil, C.A.M., 
