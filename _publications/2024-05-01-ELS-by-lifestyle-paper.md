@@ -18,6 +18,8 @@ Moderation analysis in two European birth cohorts&quot; <i>Preventive Medicine</
 
 ---
 
+Check out this paper's [GitHub repository](https://github.com/SereDef/lifestyle-moderators-project)
+
 **Abstract** \
 
 <ins>Objective</ins>:
@@ -34,7 +36,7 @@ based in the UK (ALSPAC; n = 8428) and The Netherlands (Generation R; n = 4268).
 <ins>Results</ins>: 
 Exposure to ELS was significantly associated with a higher risk of developing comorbidity, however this association was 
 not modified by any of the three lifestyle factors investigated. Only physical activity was significantly associated with 
-a reduced risk of comorbidity in one cohort (ORALSPAC [95%CI] = 0.73 [0.59;0.89]). \
+a reduced risk of comorbidity in one cohort (OR<sub>ALSPAC</sub> [95%CI] = 0.73 [0.59;0.89]). \
 <ins>Conclusions</ins>:
 In conclusion, while we found some evidence that more frequent physical activity may be associated with a reduction in 
 psycho-physical comorbidity, we did not find evidence in support of the hypothesised moderation effects. However, more 
