@@ -10,7 +10,7 @@ tag_list:
     - Multiple imputation
     - Shiny for Python web application
 paperurl: ''
-citation: '<b>Defina, S.</b>, Manzoni, D., Tiemeier, H., Brouwer, R.M., Cecil, C.A.M., & Muetzel R.L. (<i>in press</i>) 
+citation: '<b>Defina, S.</b>, Manzoni, D., Tiemeier, H., Brouwer, R.M., Cecil, C.A.M., & Muetzel R.L. (<i>in press</i>)'
 
 ---
 

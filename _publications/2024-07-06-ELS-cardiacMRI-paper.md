@@ -1,5 +1,5 @@
 ---
-title: "Early-life stress and heart morphology in childhood: a prospective population-based study"
+title: "Early-life stress exposure and heart morphology in childhood: a prospective population-based study"
 collection: publications
 permalink: /publication/2024-07-06-ELS-cardiacMRI-paper
 excerpt: ''

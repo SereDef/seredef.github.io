@@ -1,11 +1,10 @@
 ---
-title: "Longitudinal co-development of depressive symptoms and cardio-metabolic risk factors from childhood to young 
-adulthood"
+title: "Longitudinal co-development of depressive symptoms and cardio-metabolic risk factors from childhood to young adulthood"
 collection: publications
 permalink: /publication/2024-06-01-longitudinal-codev-paper
 excerpt: ''
 date: 2024-06-01
-venue: 'Defina at al. (<i>in press</i>); <i>JAMA Psychiatry</i>'
+venue: 'Defina at al. (<i>in press</i>); <i></i>'
 tag_list:
     - Random-intercept cross-lag panel model
     - Generalized cross-lag panel model
@@ -13,7 +12,7 @@ tag_list:
     - Causal inference
     - Longitudinal data analysis
 paperurl: ''
-citation: '<b>Defina, S.</b>, Cecil, C.A.M.,  Felix, J.F., Walton, E., & Tiemeier, H. (<i>in press</i>) ...
+citation: '<b>Defina, S.</b>, Cecil, C.A.M.,  Felix, J.F., Walton, E., & Tiemeier, H. (<i>in press</i>)'
 
 ---
 
