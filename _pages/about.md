@@ -21,16 +21,16 @@ an email.
 
 ### If you have time for background stories...
 Bit of an artsy kid, grown up in the middle-of-nowhere Italian South, with the (questionable) blessing of little-to-no 
-entertainment, which got me very excited about literature and philosophy. So I ended up studying Psychology in my 
-Bachelor. Those undergrad years were the breading ground for the two passions that still get me going today: 
-one was statistics and the other was the brain. \
+entertainment, which got me very excited about literature and philosophy. I ended up studying Psychology in my 
+Bachelor, and those undergrad years were the breading ground for the two passions that still get me going today: 
+one was **statistics** and the other was the **brain**. \
 So I got my hands on a scholarship and headed all the way to Amsterdam where I specialized in Neuroscience. There I met 
-machine learning for the first time and - like anybody else in early 2010s - I was hooked. \
+**machine learning** for the first time and - like anybody else in early 2010s - I was hooked. \
 My first data projects were all about applying these new ML techniques to brain time-series data, first in 
 Amsterdam (MRI) and then in Cambridge (EEG). I then moved on to Rotterdam where I started whole new PhD adventure. 
-I specialized further in Epidemiology and learned a great deal about Causal Inference. I also really grew my data 
+I specialized further in **Epidemiology** and learned a great deal about **causal inference**. I also really grew my data 
 analysis arsenal with exciting new techniques, questions and datasets (such as clinical and genomic data). \
-I currently work as a Data Scientist / Research Software Engineer for the Erasmus Medical Center. 
+I currently work as a **Data Scientist** / **Research Software Engineer** for the Erasmus Medical Center. 
 
 Latest projects
 ======

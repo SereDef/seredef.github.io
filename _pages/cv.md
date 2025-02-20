@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-You can download the CV as pfd [here](/files/Defina_CV_latex.pdf). 
+You can download the CV as pfd [here](/files/Defina_CV_latex.pdf). Last updated on: 16 Jun 2024.
 {: .notice}
 
 Education
 ======
-* 2020-    : PhD in **Epidemiology**, Erasmus medical center, expected graduation: 2024
+* 2020-2024: PhD in **Epidemiology**, Erasmus medical center, expected graduation: 2025
 * 2020-2022: MSc in **Health Sciences, (Genetic and Molecular) Epidemiology**: 9/10 (Cum Laude), Erasmus University Rotterdam (The Netherlands)
 * 2018-2020: MSc-Res in **(Cognitive) Neuroscience**: 9.2/10 (Cum Laude), Vrije Universiteit Amsterdam (The Netherlands)
 * 2015-2018: BSc in **Psychology**: 110/110 (Summa cum Laude), University of Bologna (Italy)
@@ -22,6 +22,10 @@ Education
 
 Work experience
 ======
+* May 2024 - current : Data Scientist / Research Software Engineer
+  * Erasmus Medical Center, Rotterdam (The Netherlands)
+  * Tags: Software development; Big data; Longitudinal modeling; Biostatistics;
+  
 * Feb-Mar 2023 : Visiting Researcher, Department of Psychology
   * University of Bath (United Kingdom)
   * Tags: Multiple imputation; longitudinal modeling; moderation analysis.
